@@ -1,1 +1,6 @@
-# Project_1_Finance_Services_Solutions
+# Project_1_Finance_Services_Solution
+A SIMPLE RESPONSIVE WEBSITE USING HTML & CSS. !WORK IN PROGRESS....!
+
+
+STAY TUNED ....
+THANK YOU ....
